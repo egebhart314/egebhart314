@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+My name is *Evan* (he/him) and I am a final-year physics undergrad student at Rice University in Houston, TX, USA 🦉. While my degree is in physics, my research interests lie in Earth science 🌎, particularly how climate models simulate complex, local dynamics and its implications for future climate projections. I'm also interested in atmospheric (mainly cloud) physics ☁️, ocean dynamics🌊, and the interactions between them 🌀 (as well as many, *many* other things). In addition to a B.A. in physics, I am pursuing minors in Mathematics and Environmental Studies. I think climate justice is an *essential* component of tackling climate change, and am always looking for opportunities to integrate my scientific research with progess towards a more just future.
+
+In my free time, I like to run🏃, play tennis🎾, listen to music🎵, read about history📖, and play bullet chess♟️. If your at Rice and would like to meet up, shoot me an email (or you can probably catch me in chaus☕).
+
+# Some quick things:
+📫 **How to reach me:** ecg7@rice.edu
+🔭 **I’m currently working on** research on Mississippi River Basin hydroclimatology (and probably computational physics hw)
+🌱 **I’m currently learning** Julia
+🔍 **Check out** my [lecture notes](https://www.overleaf.com/read/wtkwzcchtdbw#b4fe7b) for MATH 468 (Special Topics/Graph Theory)
+
 <!--
 **egebhart314/egebhart314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
