@@ -4,10 +4,10 @@ My name is *Evan* (he/him) and I am a final-year physics undergrad student at Ri
 
 In my free time, I like to run🏃, play tennis🎾, listen to music🎵, read about history📖, and play bullet chess♟️. If your at Rice and would like to meet up, shoot me an email (or you can probably catch me in chaus☕).
 
-# Some quick things:
-📫 **How to reach me:** ecg7@rice.edu
-🔭 **I’m currently working on** research on Mississippi River Basin hydroclimatology (and probably computational physics hw)
-🌱 **I’m currently learning** Julia
+### Some quick things:
+📫 **How to reach me:** ecg7@rice.edu <br>
+🔭 **I’m currently working on** research on Mississippi River Basin hydroclimatology (and probably computational physics hw) <br>
+🌱 **I’m currently learning** Julia <br>
 🔍 **Check out** my [lecture notes](https://www.overleaf.com/read/wtkwzcchtdbw#b4fe7b) for MATH 468 (Special Topics/Graph Theory)
 
 <!--
