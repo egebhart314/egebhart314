@@ -8,7 +8,7 @@ In my free time, I like to run🏃, play tennis🎾, listen to music🎵, learn 
 📫 **How to reach me:** ecg7@rice.edu <br>
 🔭 **I’m currently working on...** research on Mississippi River Basin hydroclimatology (and probably computational physics hw) <br>
 🌱 **I’m currently learning...** Julia <br>
-🔍 **Check out...** my [lecture notes](https://github.com/egebhart314/egebhart314/blob/main/Lecture%20Notes/MATH_468___Lecture_Notes.pdf) for MATH 468 (Special Topics/Graph Theory)
+🔍 **Check out...** my [lecture notes](https://www.overleaf.com/read/wtkwzcchtdbw#b4fe7b) for MATH 468 (Special Topics/Graph Theory)
 
 <!--
 **egebhart314/egebhart314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
