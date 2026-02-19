@@ -11,12 +11,6 @@ In my free time, I like to run🏃, play tennis🎾, listen to music🎵, learn 
 🔍 **Check out...** my [lecture notes](https://www.overleaf.com/read/wtkwzcchtdbw#b4fe7b) for MATH 468 (Special Topics/Graph Theory)
 
 
-<h4 align="center">
-  <a href="https://showyourstripes.info/s/globe">
-    <img src="https://raw.githubusercontent.com/ed-hawkins/show-your-stripes/master/2021/GLOBE---1850-2021-MO.png"
-         height="50" width="800"
-         alt="#showyourstripes Global 1850-2021"></a>
-</h4>
 <!--
 **egebhart314/egebhart314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
